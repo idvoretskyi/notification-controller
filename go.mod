@@ -11,10 +11,10 @@ require (
 	github.com/fluxcd/source-controller/api v0.0.16
 	github.com/go-logr/logr v0.1.0
 	github.com/google/go-github/v32 v32.0.0
-	github.com/hashicorp/go-retryablehttp v0.6.6
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/onsi/ginkgo v1.12.1
 	github.com/onsi/gomega v1.10.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.2
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	k8s.io/api v0.18.8
 	k8s.io/apimachinery v0.18.8
